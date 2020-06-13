@@ -1,0 +1,13 @@
+google-auth==1.16.1
+google-auth-oauthlib==0.4.1
+Keras-Preprocessing==1.1.2
+numpy==1.18.5
+opencv-python==4.2.0.34
+opt-einsum==3.2.1
+protobuf==3.12.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pygame==1.9.6
+rsa==4.0
+tensorboard==2.2.2
+tensorflow==2.2.0
